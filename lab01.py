@@ -1,6 +1,6 @@
 # CYB434 - Lab 1 - Student Marks Calculator
-# Name:
-# University ID:
+# Name:Suhaib Ahmad Aljuhani
+# University ID:4400240
 
 
 def get_grade(mark):
